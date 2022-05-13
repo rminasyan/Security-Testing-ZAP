@@ -8,3 +8,5 @@ parameters:
 
 jobs:
 - job: 'buildjob'
+  pool: 
+    vmImage: 'ubuntu-latest'
