@@ -5,3 +5,6 @@ parameters:
 - name: artifactName
   displayName: artifactName
   type: string
+
+jobs:
+- job: 'buildjob'
