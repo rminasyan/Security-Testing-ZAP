@@ -2,3 +2,6 @@ parameters:
 - name: apiurl
   displayName: apiurl
   type: string
+- name: artifactName
+  displayName: artifactName
+  type: string
