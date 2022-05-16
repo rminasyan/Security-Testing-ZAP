@@ -15,3 +15,5 @@ jobs:
 
   - task: owaspzap@1
     displayName: Owasp ZAP task
+    inputs:
+      aggressivemode: true
