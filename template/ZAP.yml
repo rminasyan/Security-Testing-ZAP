@@ -19,3 +19,4 @@ jobs:
       aggressivemode: true
       threshold: '1000'
       scantype: 'targetedScan'
+      url: ${{ parameters.apiurl }}
