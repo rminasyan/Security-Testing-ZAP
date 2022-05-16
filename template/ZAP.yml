@@ -17,3 +17,5 @@ jobs:
     displayName: Owasp ZAP task
     inputs:
       aggressivemode: true
+      threshold: '1000'
+      scantype: 'targetedScan'
