@@ -12,3 +12,6 @@ jobs:
     vmImage: 'ubuntu-latest'
   steps:
   - checkout: self
+
+  - task: owaspzap@1
+    displayName: Owasp ZAP task
