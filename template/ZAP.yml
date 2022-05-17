@@ -22,3 +22,4 @@ jobs:
       url: ${{ parameters.apiurl }}
 
   - bash: |
+      sudo npm install -g handlebars-cmd
