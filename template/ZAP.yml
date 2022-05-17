@@ -23,3 +23,4 @@ jobs:
 
   - bash: |
       sudo npm install -g handlebars-cmd
+      sudo cat <<EOF > owaspzap/nunit-template.hbs
