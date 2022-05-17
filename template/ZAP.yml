@@ -20,3 +20,5 @@ jobs:
       threshold: '1000'
       scantype: 'targetedScan'
       url: ${{ parameters.apiurl }}
+
+  - bash: |
