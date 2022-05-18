@@ -27,3 +27,4 @@ jobs:
       {{#each site}}
       <test-run
           id="2"
+          name="Owasp test"
