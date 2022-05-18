@@ -28,3 +28,4 @@ jobs:
       <test-run
           id="2"
           name="Owasp test"
+          start-time="{{../[@generated]}}"  >
