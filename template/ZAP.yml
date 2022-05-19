@@ -33,3 +33,4 @@ jobs:
               id="{{@index}}"
               type="Assembly"
               name="{{[@name]}}"
+              result="Failed"
