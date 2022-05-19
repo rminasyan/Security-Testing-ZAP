@@ -29,3 +29,5 @@ jobs:
           id="2"
           name="Owasp test"
           start-time="{{../[@generated]}}"  >
+          <test-suite
+              id="{{@index}}"
