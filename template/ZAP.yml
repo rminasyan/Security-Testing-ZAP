@@ -32,3 +32,4 @@ jobs:
           <test-suite
               id="{{@index}}"
               type="Assembly"
+              name="{{[@name]}}"
