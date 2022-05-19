@@ -31,3 +31,4 @@ jobs:
           start-time="{{../[@generated]}}"  >
           <test-suite
               id="{{@index}}"
+              type="Assembly"
