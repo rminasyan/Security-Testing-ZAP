@@ -36,3 +36,4 @@ jobs:
               result="Failed"
               failed="{{alerts.length}}">
               <attachments>
+                  <attachment>
