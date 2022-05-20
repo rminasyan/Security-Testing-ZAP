@@ -34,3 +34,5 @@ jobs:
               type="Assembly"
               name="{{[@name]}}"
               result="Failed"
+              failed="{{alerts.length}}">
+              <attachments>
