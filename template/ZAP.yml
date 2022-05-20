@@ -37,3 +37,4 @@ jobs:
               failed="{{alerts.length}}">
               <attachments>
                   <attachment>
+                      <filePath>owaspzap/report.html</filePath>
