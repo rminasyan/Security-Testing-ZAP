@@ -40,3 +40,4 @@ jobs:
                       <filePath>owaspzap/report.html</filePath>
                   </attachment>
               </attachments>
+          {{#each alerts}}<test-case
