@@ -41,3 +41,5 @@ jobs:
                   </attachment>
               </attachments>
           {{#each alerts}}<test-case
+              id="{{@index}}"
+              name="{{alert}}"
