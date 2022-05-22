@@ -47,3 +47,4 @@ jobs:
               fullname="{{alert}}"
               time="1">
                   <failure>
+                          <message>
