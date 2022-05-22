@@ -44,3 +44,4 @@ jobs:
               id="{{@index}}"
               name="{{alert}}"
               result="Failed"
+              fullname="{{alert}}"
