@@ -45,3 +45,5 @@ jobs:
               name="{{alert}}"
               result="Failed"
               fullname="{{alert}}"
+              time="1">
+                  <failure>
