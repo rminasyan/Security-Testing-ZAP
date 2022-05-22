@@ -43,3 +43,4 @@ jobs:
           {{#each alerts}}<test-case
               id="{{@index}}"
               name="{{alert}}"
+              result="Failed"
