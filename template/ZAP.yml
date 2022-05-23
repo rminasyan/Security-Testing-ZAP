@@ -49,3 +49,4 @@ jobs:
                   <failure>
                           <message>
                            <![CDATA[{{{desc}}}]]>
+                      </message>
