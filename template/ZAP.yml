@@ -48,3 +48,4 @@ jobs:
               time="1">
                   <failure>
                           <message>
+                           <![CDATA[{{{desc}}}]]>
