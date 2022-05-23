@@ -50,3 +50,5 @@ jobs:
                           <message>
                            <![CDATA[{{{desc}}}]]>
                       </message>
+                      <stack-trace>
+                          <![CDATA[
