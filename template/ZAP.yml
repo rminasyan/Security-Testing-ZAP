@@ -52,3 +52,5 @@ jobs:
                       </message>
                       <stack-trace>
                           <![CDATA[
+      Solution:
+      {{{solution}}}
