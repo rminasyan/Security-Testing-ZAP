@@ -57,3 +57,5 @@ jobs:
       Reference:
       {{{reference}}}
       instances:{{#each instances}}
+      * {{uri}}
+          - {{method}}
