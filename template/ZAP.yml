@@ -56,3 +56,4 @@ jobs:
       {{{solution}}}
       Reference:
       {{{reference}}}
+      instances:{{#each instances}}
