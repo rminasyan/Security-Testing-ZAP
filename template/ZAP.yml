@@ -60,3 +60,5 @@ jobs:
       * {{uri}}
           - {{method}}
           {{#if evidence}}- {{{evidence}}}{{/if}}
+                           {{/each}}]]>
+                       </stack-trace>
