@@ -66,3 +66,5 @@ jobs:
           </test-case>
           {{/each}}
           </test-suite>
+      </test-run>
+      {{/each}}
