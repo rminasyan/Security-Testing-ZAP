@@ -64,3 +64,5 @@ jobs:
                        </stack-trace>
                   </failure>
           </test-case>
+          {{/each}}
+          </test-suite>
