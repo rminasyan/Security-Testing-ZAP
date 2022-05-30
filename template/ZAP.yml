@@ -68,3 +68,5 @@ jobs:
           </test-suite>
       </test-run>
       {{/each}}
+      EOF
+    displayName: 'Owasp Nunit Template'
