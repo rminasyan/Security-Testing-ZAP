@@ -79,3 +79,5 @@ jobs:
     inputs:
       testResultsFormat: 'NUnit'
       testResultsFiles: 'owaspzap/test-results.xml'
+
+  - task: PublishPipelineArtifact@1
