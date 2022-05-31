@@ -78,3 +78,4 @@ jobs:
     displayName: 'Publish Test Results'
     inputs:
       testResultsFormat: 'NUnit'
+      testResultsFiles: 'owaspzap/test-results.xml'
