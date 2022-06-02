@@ -82,3 +82,5 @@ jobs:
 
   - task: PublishPipelineArtifact@1
     displayName: SecurityTestingResults - Publish artifact to pipeline
+    inputs:
+      targetPath: '$(Pipeline.Workspace)/s/owaspzap/report.html'
