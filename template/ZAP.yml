@@ -85,3 +85,4 @@ jobs:
     inputs:
       targetPath: '$(Pipeline.Workspace)/s/owaspzap/report.html'
       artifact: ${{ parameters.artifactName }}
+      publishLocation: 'pipeline'
