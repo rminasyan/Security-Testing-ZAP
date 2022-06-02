@@ -84,3 +84,4 @@ jobs:
     displayName: SecurityTestingResults - Publish artifact to pipeline
     inputs:
       targetPath: '$(Pipeline.Workspace)/s/owaspzap/report.html'
+      artifact: ${{ parameters.artifactName }}
