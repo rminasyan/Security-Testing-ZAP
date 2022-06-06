@@ -2,4 +2,4 @@ jobs:
   - template: ../template/ZAP.yml
     parameters:
       apiurl: https://your-api-url.net/example
-      
+      artifactName: API_1-Report
