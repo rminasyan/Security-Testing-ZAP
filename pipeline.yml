@@ -1,0 +1,2 @@
+schedules:
+- cron: "00 21 * * 6"
