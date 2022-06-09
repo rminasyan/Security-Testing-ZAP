@@ -8,3 +8,4 @@ schedules:
   always: true
 
 stages:
+  - stage: API_1
