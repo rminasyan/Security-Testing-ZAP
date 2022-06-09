@@ -6,3 +6,5 @@ schedules:
     - master
     - main
   always: true
+
+stages:
