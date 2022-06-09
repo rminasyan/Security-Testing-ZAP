@@ -9,3 +9,4 @@ schedules:
 
 stages:
   - stage: API_1
+    displayName: API-1
