@@ -1,3 +1,5 @@
+trigger: none
+
 # schedules:
 # - cron: "00 21 * * 6"
 #   displayName: Every Saturday at 21:00 UTC
