@@ -10,3 +10,5 @@ schedules:
 stages:
   - stage: API_1
     displayName: API-1
+    jobs:
+      - template: Stages/API_1.yml
